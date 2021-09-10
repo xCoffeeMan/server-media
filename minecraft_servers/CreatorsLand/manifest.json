@@ -1,0 +1,26 @@
+{
+  "server_name": "Creators Land",
+  "nice_name": "Creators Land",
+  "direct_ip": "play.creators-land.com",
+
+  "social": {
+    "web": "https://www.creators-land.com/",
+    "web_shop": "https://creatorsland.tebex.io/",
+    "web_support": "https://www.creators-land.com/",
+    "twitter": "https://twitter.com/creators_land",
+    "discord": "https://discord.gg/MP7DCrVq9X",
+    "youtube": "https://www.youtube.com/channel/UC02FTO7cn7T9aqI61yfeRkg"
+  },
+  "gamemodes": {
+    "Survival": {
+      "name": "Survival",
+      "color": "#0095B0"
+    },
+  "Dungeons": {
+      "name": "Dungeons",
+      "color": "#0095B0"
+    },
+  "Seablock": {
+      "name": "Seablock",
+      "color": "#0095B0"
+    },
